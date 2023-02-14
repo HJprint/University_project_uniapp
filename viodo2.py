@@ -1,4 +1,4 @@
-# @description：把照片合成视频。
+# 把照片合成视频
 
 import os
 import cv2
@@ -39,4 +39,3 @@ def write_video():
 if __name__ == '__main__':
     write_video()
 
-#  如果想加背景音乐可以在此代码的基础上添加，请自行百度。
